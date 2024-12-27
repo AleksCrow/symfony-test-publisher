@@ -18,3 +18,9 @@
 .phpunit.result.cache
 /phpunit.xml
 ###< symfony/phpunit-bridge ###
+/templates/base.html.twig
+/.idea/dataSources.xml
+/bin/phpunit
+/.idea/phpunit.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/sqldialects.xml
